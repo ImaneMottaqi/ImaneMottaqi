@@ -37,3 +37,5 @@
 
 
 </div>
+![Streamlit](https://img.shields.io/badge/Streamlit-Used-blue)
+
